@@ -1,0 +1,29 @@
+{
+  "name": "waxeye-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rchaser53/waxeye-playground.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rchaser53/waxeye-playground/issues"
+  },
+  "homepage": "https://github.com/rchaser53/waxeye-playground#readme",
+  "dependencies": {
+    "typescript": "^3.2.2",
+    "waxeye": "orlandohill/waxeye#master"
+  },
+  "devDependencies": {
+    "ts-loader": "^5.3.1",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2"
+  }
+}
